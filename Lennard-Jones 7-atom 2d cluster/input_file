@@ -1,0 +1,8 @@
+Number of para iterations   : 500 
+Number of coarse intervals  : 500 
+Number of fine steps        : 1 
+Time step                   : .01 
+Algorithm type              : 0 
+Beta                        : 10.  
+Gamma                       : 40.
+*********
