@@ -1,0 +1,8 @@
+Nb iterations para          : 3000 
+Number of coarse intervals  : 3000 
+Number of fine time steps   : 1 
+pas de temps                : .05 
+type algorithme             : 0 
+beta                        : 3.  
+gamma                       : 3.
+*********
