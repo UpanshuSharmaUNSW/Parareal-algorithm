@@ -10,9 +10,12 @@ Each of the folder contains an identical file titled **input_file** which contai
 
 **WARNING: CHANGING THE FORMAT OF THE MAKE FILE WILL LEAD TO ERRONEOUS RESULTS. ONLY CHANGE THE NUMBERS IN THE input_file**   
 
-(1) Number of para iterations: Number of parareal iterations to be used in the current run. This correspond to variable **K** in the article. 
-(2) Number of coarse intervals: Number of coarse-intervals to be used in the current run. Wile this number can be different from (1), in our experiments this is always chosen to be equal to input in (1). For explanation see the article above. 
-(3) Number of fine steps: Number of fine steps within each coarse step. In our experiments this is always chosen to be 1, i.e. the fine and coarse time-step are exactly the same. For explanation see the article above. 
-(4) Time step: This is the time step (same for fine and coarse integration) that is used in the algorithm. 
+(1) Number of para iterations: Number of parareal iterations to be used in the current run. This correspond to variable **K** in the article above. 
+
+(2) Number of coarse intervals: Number of coarse-intervals to be used in the current run. Wile this number can be different from (1), in our experiments this is always chosen to be equal to input in (1). For explanation see the article. 
+
+(3) Number of fine steps: Number of fine steps within each coarse step. In our experiments this is always chosen to be 1, i.e. the fine and coarse time-step are exactly the same. For explanation see the article. 
+
+(4) Time step: This is the time step (same for fine and coarse integration) that is used in the algorithm. This corresonds to $\Delta t$ in the article.
 
 
