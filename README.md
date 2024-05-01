@@ -23,8 +23,6 @@ This C++ repository deals with implements parareal algorithm for the (underdampe
 
 ## Parameters for parareal algorithm
 
-The convergence 
-
 Each of the folder contains an identical file titled **input_file** which contains the various parameters used in the parareal algorithm, which we now describe. 
 
 **WARNING: CHANGING THE FORMAT OF THE MAKE FILE WILL LEAD TO ERRONEOUS RESULTS. ONLY CHANGE THE NUMBERS IN THE input_file**   
